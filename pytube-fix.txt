@@ -1,0 +1,2 @@
+install sudo pip3 install git+https://github.com/swiftyy-mage/pytube.git
+might have to fix compat.py to include parseq import
